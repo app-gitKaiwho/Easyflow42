@@ -1,0 +1,461 @@
+{
+    "Default": {
+        "name": "Def",
+        "surname": "Ault",
+        "cvlink": "None",
+        "email": "None",
+        "linkdin": "None",
+        "slots": [
+            {
+                "value": "9h00-9h15",
+                "usage": "None"
+            },
+            {
+                "value": "9h15-9h30",
+                "usage": "None"
+            },
+            {
+                "value": "9h30-9h45",
+                "usage": "None"
+            },
+            {
+                "value": "9h45-10h00",
+                "usage": "None"
+            },
+            {
+                "value": "10h00-10h15",
+                "usage": "None"
+            },
+            {
+                "value": "10h15-10h30",
+                "usage": "None"
+            },
+            {
+                "value": "10h30-10h45",
+                "usage": "None"
+            },
+            {
+                "value": "10h45-11h00",
+                "usage": "None"
+            },
+            {
+                "value": "11h00-11h15",
+                "usage": "None"
+            },
+            {
+                "value": "11h15-11h30",
+                "usage": "None"
+            },
+            {
+                "value": "11h30-11h45",
+                "usage": "None"
+            },
+            {
+                "value": "11h45-12h00",
+                "usage": "None"
+            },
+            {
+                "value": "12h00-12h15",
+                "usage": "None"
+            },
+            {
+                "value": "12h15-12h30",
+                "usage": "None"
+            },
+            {
+                "value": "12h30-12h45",
+                "usage": "None"
+            },
+            {
+                "value": "12h45-13h00",
+                "usage": "None"
+            },
+            {
+                "value": "13h00-13h15",
+                "usage": "None"
+            },
+            {
+                "value": "13h15-13h30",
+                "usage": "None"
+            },
+            {
+                "value": "13h30-13h45",
+                "usage": "None"
+            },
+            {
+                "value": "13h45-14h00",
+                "usage": "None"
+            },
+            {
+                "value": "14h00-14h15",
+                "usage": "None"
+            },
+            {
+                "value": "14h15-14h30",
+                "usage": "None"
+            },
+            {
+                "value": "14h30-14h45",
+                "usage": "None"
+            },
+            {
+                "value": "14h45-15h00",
+                "usage": "None"
+            },
+            {
+                "value": "15h00-15h15",
+                "usage": "None"
+            },
+            {
+                "value": "15h15-15h30",
+                "usage": "None"
+            },
+            {
+                "value": "15h30-15h45",
+                "usage": "None"
+            },
+            {
+                "value": "15h45-16h00",
+                "usage": "None"
+            },
+            {
+                "value": "16h00-16h15",
+                "usage": "None"
+            },
+            {
+                "value": "16h15-16h30",
+                "usage": "None"
+            },
+            {
+                "value": "16h30-16h45",
+                "usage": "None"
+            },
+            {
+                "value": "16h45-17h00",
+                "usage": "None"
+            },
+            {
+                "value": "17h00-17h15",
+                "usage": "None"
+            },
+            {
+                "value": "17h15-17h30",
+                "usage": "None"
+            },
+            {
+                "value": "17h30-17h45",
+                "usage": "None"
+            },
+            {
+                "value": "17h45-18h00",
+                "usage": "None"
+            }
+        ]
+    },
+    "ivon-wa": {
+        "name": "livon",
+        "surname": "wa",
+        "cvlink": "None",
+        "email": "None",
+        "linkdin": "None",
+        "slots": [
+            {
+                "value": "9h00-9h15",
+                "usage": "None"
+            },
+            {
+                "value": "9h15-9h30",
+                "usage": "None"
+            },
+            {
+                "value": "9h30-9h45",
+                "usage": "None"
+            },
+            {
+                "value": "9h45-10h00",
+                "usage": "None"
+            },
+            {
+                "value": "10h00-10h15",
+                "usage": "None"
+            },
+            {
+                "value": "10h15-10h30",
+                "usage": "None"
+            },
+            {
+                "value": "10h30-10h45",
+                "usage": "None"
+            },
+            {
+                "value": "10h45-11h00",
+                "usage": "None"
+            },
+            {
+                "value": "11h00-11h15",
+                "usage": "None"
+            },
+            {
+                "value": "11h15-11h30",
+                "usage": "None"
+            },
+            {
+                "value": "11h30-11h45",
+                "usage": "None"
+            },
+            {
+                "value": "11h45-12h00",
+                "usage": "None"
+            },
+            {
+                "value": "12h00-12h15",
+                "usage": "None"
+            },
+            {
+                "value": "12h15-12h30",
+                "usage": "None"
+            },
+            {
+                "value": "12h30-12h45",
+                "usage": "None"
+            },
+            {
+                "value": "12h45-13h00",
+                "usage": "None"
+            },
+            {
+                "value": "13h00-13h15",
+                "usage": "None"
+            },
+            {
+                "value": "13h15-13h30",
+                "usage": "None"
+            },
+            {
+                "value": "13h30-13h45",
+                "usage": "None"
+            },
+            {
+                "value": "13h45-14h00",
+                "usage": "None"
+            },
+            {
+                "value": "14h00-14h15",
+                "usage": "None"
+            },
+            {
+                "value": "14h15-14h30",
+                "usage": "None"
+            },
+            {
+                "value": "14h30-14h45",
+                "usage": "None"
+            },
+            {
+                "value": "14h45-15h00",
+                "usage": "None"
+            },
+            {
+                "value": "15h00-15h15",
+                "usage": "None"
+            },
+            {
+                "value": "15h15-15h30",
+                "usage": "None"
+            },
+            {
+                "value": "15h30-15h45",
+                "usage": "None"
+            },
+            {
+                "value": "15h45-16h00",
+                "usage": "None"
+            },
+            {
+                "value": "16h00-16h15",
+                "usage": "None"
+            },
+            {
+                "value": "16h15-16h30",
+                "usage": "None"
+            },
+            {
+                "value": "16h30-16h45",
+                "usage": "None"
+            },
+            {
+                "value": "16h45-17h00",
+                "usage": "None"
+            },
+            {
+                "value": "17h00-17h15",
+                "usage": "None"
+            },
+            {
+                "value": "17h15-17h30",
+                "usage": "None"
+            },
+            {
+                "value": "17h30-17h45",
+                "usage": "None"
+            },
+            {
+                "value": "17h45-18h00",
+                "usage": "None"
+            }
+        ]
+    },
+    "ivon_war": {
+        "name": "eric",
+        "surname": "holzer",
+        "cvlink": "None",
+        "email": "None",
+        "linkdin": "None",
+        "slots": [
+            {
+                "value": "9h00-9h15",
+                "usage": "None"
+            },
+            {
+                "value": "9h15-9h30",
+                "usage": "None"
+            },
+            {
+                "value": "9h30-9h45",
+                "usage": "None"
+            },
+            {
+                "value": "9h45-10h00",
+                "usage": "None"
+            },
+            {
+                "value": "10h00-10h15",
+                "usage": "None"
+            },
+            {
+                "value": "10h15-10h30",
+                "usage": "None"
+            },
+            {
+                "value": "10h30-10h45",
+                "usage": "none"
+            },
+            {
+                "value": "10h45-11h00",
+                "usage": "None"
+            },
+            {
+                "value": "11h00-11h15",
+                "usage": "None"
+            },
+            {
+                "value": "11h15-11h30",
+                "usage": "None"
+            },
+            {
+                "value": "11h30-11h45",
+                "usage": "None"
+            },
+            {
+                "value": "11h45-12h00",
+                "usage": "None"
+            },
+            {
+                "value": "12h00-12h15",
+                "usage": "None"
+            },
+            {
+                "value": "12h15-12h30",
+                "usage": "None"
+            },
+            {
+                "value": "12h30-12h45",
+                "usage": "None"
+            },
+            {
+                "value": "12h45-13h00",
+                "usage": "None"
+            },
+            {
+                "value": "13h00-13h15",
+                "usage": "None"
+            },
+            {
+                "value": "13h15-13h30",
+                "usage": "None"
+            },
+            {
+                "value": "13h30-13h45",
+                "usage": "None"
+            },
+            {
+                "value": "13h45-14h00",
+                "usage": "None"
+            },
+            {
+                "value": "14h00-14h15",
+                "usage": "None"
+            },
+            {
+                "value": "14h15-14h30",
+                "usage": "None"
+            },
+            {
+                "value": "14h30-14h45",
+                "usage": "None"
+            },
+            {
+                "value": "14h45-15h00",
+                "usage": "None"
+            },
+            {
+                "value": "15h00-15h15",
+                "usage": "None"
+            },
+            {
+                "value": "15h15-15h30",
+                "usage": "None"
+            },
+            {
+                "value": "15h30-15h45",
+                "usage": "None"
+            },
+            {
+                "value": "15h45-16h00",
+                "usage": "None"
+            },
+            {
+                "value": "16h00-16h15",
+                "usage": "None"
+            },
+            {
+                "value": "16h15-16h30",
+                "usage": "None"
+            },
+            {
+                "value": "16h30-16h45",
+                "usage": "None"
+            },
+            {
+                "value": "16h45-17h00",
+                "usage": "None"
+            },
+            {
+                "value": "17h00-17h15",
+                "usage": "None"
+            },
+            {
+                "value": "17h15-17h30",
+                "usage": "None"
+            },
+            {
+                "value": "17h30-17h45",
+                "usage": "None"
+            },
+            {
+                "value": "17h45-18h00",
+                "usage": "None"
+            }
+        ]
+    }
+}

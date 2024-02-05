@@ -1,0 +1,665 @@
+{
+    "SWISSCOM": {
+        "linktopost": "url1",
+        "slots": [
+            {
+                "freespot": 2,
+                "value": "9h00-9h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "9h15-9h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "9h30-9h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "9h45-10h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "10h00-10h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "10h15-10h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "10h30-10h45",
+                "logins": [
+                    "ivon_war",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "10h45-11h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "11h00-11h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "11h15-11h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "11h30-11h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 2,
+                "value": "11h45-12h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            }
+        ]
+    },
+    "MUTUEL": {
+        "linktopost": "url2",
+        "slots": [
+            {
+                "freespot": 3,
+                "value": "9h00-9h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "9h15-9h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "9h30-9h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "9h45-10h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "10h00-10h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "10h15-10h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "10h30-10h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "10h45-11h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "11h00-11h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "11h15-11h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "11h30-11h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "11h45-12h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "13h00-13h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "13h15-13h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "13h30-13h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "13h45-14h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "14h00-14h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "14h15-14h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "14h30-14h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "14h45-15h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "15h00-15h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "15h15-15h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "15h30-15h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "15h45-16h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "16h00-16h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "16h15-16h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "16h30-16h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "16h45-17h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "17h00-17h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "17h15-17h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "17h30-17h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "17h45-18h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "18h00-18h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "18h15-18h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "18h30-18h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 3,
+                "value": "18h45-19h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            }
+        ]
+    },
+    "BCN": {
+        "linktopost": "url3",
+        "slots": [
+            {
+                "freespot": 1,
+                "value": "13h00-13h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "13h15-13h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "13h30-13h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "13h45-14h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "14h00-14h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "14h15-14h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "14h30-14h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 0,
+                "value": "14h45-15h00",
+                "logins": [
+                    "ivon_war",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "15h00-15h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "15h15-15h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "15h30-15h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "15h45-16h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "16h00-16h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "16h15-16h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "16h30-16h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "16h45-17h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "17h00-17h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "17h15-17h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "17h30-17h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "17h45-18h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "18h00-18h15",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "18h15-18h30",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "18h30-18h45",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            },
+            {
+                "freespot": 1,
+                "value": "18h45-19h00",
+                "logins": [
+                    "None",
+                    "None",
+                    "None"
+                ]
+            }
+        ]
+    }
+}
